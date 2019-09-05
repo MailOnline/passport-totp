@@ -33,7 +33,7 @@
   "dependencies": {
     "notp": "2.0.x",
     "passport-strategy": "1.0.0",
-    "pkginfo": "0.2.x"
+    "pkginfo": "0.4.1"
   },
   "devDependencies": {
     "mocha": "1.x.x",
